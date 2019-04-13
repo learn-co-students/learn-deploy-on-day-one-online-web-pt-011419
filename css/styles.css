@@ -106,7 +106,7 @@ a:visited {
 
 .student-card {
   position: relative;
- background-image: url("https://learn-verified.s3.amazonaws.com/profile-photo-placeholder.png");
+  background-image: url("https://imgur.com/Qj5uKdi");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -161,6 +161,10 @@ a:visited {
 
 #diane-vu-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
+}
+
+#derek-cerretani-card {
+  background-image: url("https://i.imgur.com/Qj5uKdi.jpg")
 }
 
 .view-profile-div {
